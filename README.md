@@ -10,7 +10,7 @@ Repare que os elementos estão dentro de uma classe chamada Errors que transform
 
 Segue imagem da chamada completa:
 
-https://github.com/laerson-hammes/debwalk/blob/main/img/use.png
+<img src="https://github.com/laerson-hammes/debwalk/blob/main/img/use.png" alt="Modelo chamada" title="Modelo chamada">
 
 Você pode obter o mesmo resultado com o seguinte comando no root do projeto:
 
