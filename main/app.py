@@ -15,7 +15,7 @@ class Errors(enum.Enum):
 
 class Log():
 
-    def __init__(self, /, *, debug: bool = True, rtr = True) -> None:
+    def __init__(self, /, *, debug: bool = True, rtr: bool = True) -> None:
         self.debug: bool = debug
         self.rtr: bool = rtr
         if self.debug:
