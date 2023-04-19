@@ -18,7 +18,7 @@ Você pode obter o mesmo resultado com o seguinte comando no root do projeto:
 
 Output:
 
-https://github.com/laerson-hammes/debwalk/blob/main/img/run.png
+<img src="https://github.com/laerson-hammes/debwalk/blob/main/img/run.png" alt="Resultado da chamada" title="Resultado da chamada">
 
 Caso deseja rodar os testes você pode usar o coverage:
 
@@ -26,4 +26,4 @@ Caso deseja rodar os testes você pode usar o coverage:
 
 Após, reportar o resultado e ver o index:
 
-https://github.com/laerson-hammes/debwalk/blob/main/img/report.png
+<img src="https://github.com/laerson-hammes/debwalk/blob/main/img/report.png" alt="Coverage report" title="Coverage report">
